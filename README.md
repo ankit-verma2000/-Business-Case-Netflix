@@ -15,6 +15,7 @@ Analyze the data and generate insights that could help Netflix in deciding which
 # Dataset:
 
 Link: Dataset_link
+https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/000/940/original/netflix.csv
 
 # Description:
 
